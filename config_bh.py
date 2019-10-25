@@ -56,4 +56,5 @@ PRODUCTS = [
 {'search_name': 'watermelon shampoo set', 'sku': 'WatermelonShampooConditionerSet ', 'ad_group_level': True},
 {'search_name': 'cellulite cream', 'sku': 'CalluliteMassageCream ', 'ad_group_level': True},
 {'search_name': 'SoreMuscleMassageOil', 'sku': 'SoreMuscleMassageOil', 'ad_group_level': True},
+{'search_name': 'TeaTreeOil', 'sku': 'TeaTreeOilForWomen', 'ad_group_level': True},
 ]
