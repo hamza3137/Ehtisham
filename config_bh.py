@@ -41,6 +41,7 @@ PRODUCTS = [
 {'search_name': 'TeaTreeWash', 'sku': 'TeaTreeWash', 'ad_group_level': True},
 {'search_name': 'TeaTreeOilShampooConditionerSet', 'sku': 'TeaTreeOilShampooConditionerSet', 'ad_group_level': True},
 {'search_name': 'AloeVera16oz', 'sku': 'AloeVera16oz', 'ad_group_level': True},
+{'search_name': 'TeaTreeShampoo', 'sku': 'TeaTreeShampooForWomen', 'ad_group_level': True},
 {'search_name': 'ArganOilKeratine', 'sku': 'ArganOilKeratine', 'ad_group_level': True},
 {'search_name': 'BH-EssentialOilsSet', 'sku': 'BH-EssentialOilsSet', 'ad_group_level': True},
 {'search_name': 'Muscle Jelly', 'sku': 'QV-QNQ1-4M8G', 'ad_group_level': True},
