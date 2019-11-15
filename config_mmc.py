@@ -42,4 +42,5 @@ PRODUCTS = [
 {'search_name': 'BB-Lets Sail Away', 'sku': 'MineralMe-BathBombs-LSA001', 'ad_group_level': True},
 {'search_name': 'BB-Motivational 12', 'sku': 'MineralMe-NBM001', 'ad_group_level': True},
 {'search_name': 'BB- To The Moon', 'sku': 'MineralMe-TMB001', 'ad_group_level': True},
+{'search_name': 'BB- To The Sun', 'sku': 'MineralMe-TMB002', 'ad_group_level': False},
 ]
