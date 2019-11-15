@@ -157,6 +157,6 @@ PRODUCTS = [
     'identification' : 'Lavender',
     'search_name' : 'Lavender',
     'sku' : '1N-5BZ0-UDCH',
-    'ad_group_level' : True,
+    'ad_group_level' : false,
     },
 ]
